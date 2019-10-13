@@ -1,0 +1,11 @@
+C:\Users\Olya\RiderProjects\ConsoleApplication14\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Olya\RiderProjects\ConsoleApplication14\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Olya\RiderProjects\ConsoleApplication14\TestProject1\bin\Debug\nunit.framework.dll
+C:\Users\Olya\RiderProjects\ConsoleApplication14\TestProject1\bin\Debug\nunit.framework.xml
+C:\Users\Olya\RiderProjects\ConsoleApplication14\TestProject1\obj\Debug\TestProject1.csprojAssemblyReference.cache
+C:\Users\Olya\RiderProjects\ConsoleApplication14\TestProject1\obj\Debug\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Olya\RiderProjects\ConsoleApplication14\TestProject1\obj\Debug\TestProject1.csproj.CopyComplete
+C:\Users\Olya\RiderProjects\ConsoleApplication14\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Olya\RiderProjects\ConsoleApplication14\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\Olya\RiderProjects\ConsoleApplication14\TestProject1\bin\Debug\ConsoleApplication14.exe
+C:\Users\Olya\RiderProjects\ConsoleApplication14\TestProject1\bin\Debug\ConsoleApplication14.pdb

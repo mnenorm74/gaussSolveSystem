@@ -1,0 +1,6 @@
+C:\Users\Olya\RiderProjects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+C:\Users\Olya\RiderProjects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+C:\Users\Olya\RiderProjects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.csprojAssemblyReference.cache
+C:\Users\Olya\RiderProjects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.csproj.CoreCompileInputs.cache
+C:\Users\Olya\RiderProjects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Users\Olya\RiderProjects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
