@@ -4,3 +4,9 @@ C:\Users\Olya\RiderProjects\ConsoleApplication14\ConsoleApplication14\obj\Debug\
 C:\Users\Olya\RiderProjects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.csproj.CoreCompileInputs.cache
 C:\Users\Olya\RiderProjects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
 C:\Users\Olya\RiderProjects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
+C:\Оля\Учеба\Численный анализ\2\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+C:\Оля\Учеба\Численный анализ\2\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+C:\Оля\Учеба\Численный анализ\2\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.csprojAssemblyReference.cache
+C:\Оля\Учеба\Численный анализ\2\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.csproj.CoreCompileInputs.cache
+C:\Оля\Учеба\Численный анализ\2\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Оля\Учеба\Численный анализ\2\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb

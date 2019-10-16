@@ -76,7 +76,7 @@ namespace ConsoleApplication14
             return new roots {x1 = firstRoot, x2 = secondRoot, x3 = thirdRoot, x4 = fourthRoot};
         }
 
-        private static void printMatrix(double[,] matrix)
+        /*private static void printMatrix(double[,] matrix)
         {
             var lines = matrix.GetLength(0);
             var columns = matrix.GetLength(1);
@@ -93,7 +93,7 @@ namespace ConsoleApplication14
             }
 
             Console.WriteLine();
-        }
+        }*/
 
         private static void printRoots(roots values)
         {
@@ -106,10 +106,10 @@ namespace ConsoleApplication14
         public static void SolveSystem(double[,] matrix)
         {
             Console.WriteLine("Исходная матрица:");
-            printMatrix(matrix);
+            Printing.printMatrix(matrix);
             Console.WriteLine("Матрица, приведенная к диагональному виду:");
             matrix = createDiagonalView(matrix);
-            printMatrix(matrix);
+            Printing.printMatrix(matrix);
             Console.WriteLine("Корни:");
             var roots = getRoots(matrix);
             printRoots(roots);

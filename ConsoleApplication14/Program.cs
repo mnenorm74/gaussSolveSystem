@@ -34,8 +34,11 @@ namespace ConsoleApplication14
                     }
                     else if (Math.Abs(coefficient) > 1e-5)
                     {
-                        equation.Append(coefficient > 0 ? " + " : " - ").Append(getCoefficient(Math.Abs(coefficient)))
-                            .Append("x").Append(xIndex);
+                        if (Math.Abs(matrix[i, j - 1]) > 1e-5)
+                        {
+                            equation.Append(coefficient > 0 ? " + " : " - ");
+                        }
+                        equation.Append(getCoefficient(Math.Abs(coefficient))).Append("x").Append(xIndex);
                     }
 
                     xIndex++;
@@ -57,15 +60,23 @@ namespace ConsoleApplication14
         
         public static void Main(string[] args)
         {
-            var matrix = new[,]
+            /*var matrix = new[,]
             {
                 {4.0, 1, 1, 2, 2},
                 {1, 3, 2, -1, 2},
                 {2, -1, 5, 3, -1},
                 {4, 5, 4, -4, 8}
+            };*/
+            var matrix = new[,]
+            {
+                {10, 1, 0, 0, 5},
+                {-2, 9, 1, 0, -1},
+                {0, 0.1, 4, -1, -5},
+                {0, 0, -1, 8, 40}
             };
             printInputData(matrix);
-            Gauss.SolveSystem(matrix);
+            /*Gauss.SolveSystem(matrix);*/
+            sweepMethod.SolveSystem(matrix);
         }
     }
 }
